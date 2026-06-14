@@ -7,7 +7,7 @@ LSDa (Linkset Data Arena) is a streamlined, high-speed Arena Allocator written i
 
 ## Why has it been created?
 
-Dynamic memory managers (like LSDm) carry overhead for tracking types, parsing strings, and managing free lists. Sometimes, a script simply needs pure speed and sequential access—such as loading a static game grid or parsing bulk binary data. LSDa was created to strip away the overhead and provide blistering fast read/write speeds over large, fixed-size data sets.
+Dynamic memory managers (like LSDm) carry overhead for tracking types, parsing strings, and managing free lists. Sometimes, a script simply needs pure speed and sequential access such as loading a static game grid or parsing bulk binary data. LSDa was created to strip away the overhead and provide blistering fast read/write speeds over large, fixed-size data sets.
 
 ## What features does it provide?
 
