@@ -1,5 +1,5 @@
 // ==============================================================================
-// LSDa: LINKSET DATA ARENA by CapeXCat
+// LSDa: LINKSET DATA ARENA by MasterDonald
 // ==============================================================================
 integer g_next_address = 0;
 integer g_active_allocations = 0;
